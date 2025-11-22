@@ -1,0 +1,1 @@
+This is a rock - paper - scissors game played on the browser's console
